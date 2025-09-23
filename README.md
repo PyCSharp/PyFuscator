@@ -8,7 +8,7 @@ A multi-stage Python script obfuscator that transforms Python code into obfuscat
 
 ## Features
 
-- **Multi-stage obfuscation:**  
+**Multi-stage obfuscation:**  
   1. Base64 encoding  
   2. Hex transformation with character substitution  
   3. XOR encryption with a random key  
