@@ -1,6 +1,6 @@
 # PyFuscator
 
-![PyFuscator](https://raw.githubusercontent.com/PyCSharp/PyFuscator/refs/heads/main/image.png?token=GHSAT0AAAAAADKMP6VAQIQUEMSCKCIRMKU42GTNJDQ)
+![PyFuscator](image.png)
 
 A multi-stage Python script obfuscator that transforms Python code into obfuscated and encrypted forms. Includes optional junk code injection, base64 encoding, hex manipulation, XOR encryption, and Fernet encryption.  
 
