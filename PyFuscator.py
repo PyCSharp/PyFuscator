@@ -188,7 +188,7 @@ exec(v2.decrypt({encryptedContent}))\"\"\")""")
         print(f"Error: {e}")
         input()
 
-def FithObfuscationStage():
+def FifthObfuscationStage():
     try:
         py_compile.compile(f"obfuscated_{file}", cfile=f"obfuscated_{file}.pyc")
     except Exception as e:
@@ -216,7 +216,7 @@ while True:
     FirstObfuscationStage()
     FourthObfuscationStage()
     FirstObfuscationStage()
-    FithObfuscationStage()
+    FifthObfuscationStage()
 
     print("File Obfuscated!")
     input()
